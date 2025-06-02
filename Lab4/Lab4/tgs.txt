@@ -1,0 +1,11 @@
+Linear regression parameters ln(I_k) = a·U_eb + b:
+  Slope (a): 34.7955 ± 7.46442 1/V
+  Intercept (b): -18.8202 ± 2.82361
+  Temperature (T): 295.15 K
+
+e/k RATIO:
+  e/k = T·a = 10269.9 ± 2203.12 K/V
+
+SATURATION CURRENT:
+  I0 = exp(b) = 6.7067e-09 ± 1.89371e-08 A
+------------------------------------------------
